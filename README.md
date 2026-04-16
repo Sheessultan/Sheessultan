@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Shees Sultan</h1>
-<h3 align="center"> Founder of CodeWave Studio. | Developer </h3>
 
 
 ## 🌐 Connect with me:
@@ -13,6 +12,3 @@
 
 
 ---
-[![](https://komarev.com/ghpvc/?username=Sheessultan&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
