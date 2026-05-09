@@ -90,12 +90,6 @@
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 
-# 🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Sheessultan&theme=algolia&no-frame=true&row=1&column=7"/>
-</p>
-
 
 ## 📊 GitHub Stats:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sheessultan&theme=github_dark)
